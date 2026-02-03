@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReservaXmlToCsv", "ReservaXmlToCsv.csproj", "{D08305C7-ED36-C81D-9F21-2073BDF85858}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D08305C7-ED36-C81D-9F21-2073BDF85858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08305C7-ED36-C81D-9F21-2073BDF85858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08305C7-ED36-C81D-9F21-2073BDF85858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08305C7-ED36-C81D-9F21-2073BDF85858}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58AFB6F5-BCE4-43AB-930F-60D8806AC7DA}
+	EndGlobalSection
+EndGlobal
